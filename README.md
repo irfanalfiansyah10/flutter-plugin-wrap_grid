@@ -1,6 +1,6 @@
 # mcnmr_wrap_height_gridview
 
-A new Flutter package project.
+Wrapped Height for Gridview, just for fun
 
 ## Getting Started
 
